@@ -1,0 +1,5 @@
+git status
+git add --a
+git commit -m ""
+git log
+rm -rf .git
